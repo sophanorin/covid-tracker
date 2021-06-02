@@ -1,4 +1,4 @@
-# React COVID Tracker
+# COVID Tracker
 
 Made with :heart: by [Sophanorin](https://web.facebook.com/Heou.sophanorin)
 
