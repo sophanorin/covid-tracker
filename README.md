@@ -9,7 +9,7 @@ Demo link : [Click](https://nifty-cray-ec12c2.netlify.app/)
 ## Description 
 
 This's application is built for data visualization that using React and ChartJs.
-It tracks all Coronavirus Cases, Recovered, Deaths in the world
+It tracks all Coronavirus Cases, Recovered, Deaths in the world.
 
 ## Available Scripts
 
