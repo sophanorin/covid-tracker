@@ -2,7 +2,14 @@
 
 Made with :heart: by [Sophanorin](https://web.facebook.com/Heou.sophanorin)
 
-## (DEMO LINK)[]
+## Demo
+
+Demo link : [Click](https://nifty-cray-ec12c2.netlify.app/)
+
+## Description 
+
+This's application is built for data visualization that using React and ChartJs.
+It tracks all Coronavirus Cases, Recovered, Deaths in the world
 
 ## Available Scripts
 
